@@ -13,20 +13,6 @@
     }
  }
 
- // add Another Class 
- class ProductsList
- {
-
- }
- 
- 
- 
- 
- 
- 
- 
- 
- 
  const allProducts = {
       Product : [
         new ProductsItem("A pillow", 
